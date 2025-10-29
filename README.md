@@ -5,13 +5,6 @@ Ideal para ser usado como página de apresentação pessoal ou portfólio.
 
 ---
 
-## 🌐 Demonstração
-
-🖥️ **Veja o projeto online:**  
-👉 [https://danielcostadossantos.github.io/myResume/](https://danielcostadossantos.github.io/myResume/)
-
----
-
 ## 🛠️ Tecnologias utilizadas
 
 - **HTML5** → estrutura do site  
